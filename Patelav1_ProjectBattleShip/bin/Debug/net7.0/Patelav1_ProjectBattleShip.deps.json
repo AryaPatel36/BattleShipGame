@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Patelav1_ProjectBattleShip/1.0.0": {
+        "runtime": {
+          "Patelav1_ProjectBattleShip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patelav1_ProjectBattleShip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

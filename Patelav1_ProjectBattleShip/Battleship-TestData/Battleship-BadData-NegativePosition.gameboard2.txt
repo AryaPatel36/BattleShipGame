@@ -1,0 +1,3 @@
+# Bad Data
+# Issue: The carrier's position is negative
+Carrier, 5, h, -2, -6

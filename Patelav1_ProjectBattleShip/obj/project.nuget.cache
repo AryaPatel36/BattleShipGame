@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "de5hI+VA6VhiIhhhFtdMwfrc1wPyHj761ZC9KMaMmudfbGefjophzlcOa27had0fEsvI9pR76TZJv3KUT7D8Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aryab\\Downloads\\Project_Portfolio\\Patelav1_ProjectBattleShip\\Patelav1_ProjectBattleShip\\Patelav1_ProjectBattleShip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aryab\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Aryab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Aryab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Aryab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
